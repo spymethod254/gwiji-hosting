@@ -5,6 +5,7 @@ import HostingPlans from "../components/HostingPlans";
 import Features from "../components/Features";
 import Testimonials from "../components/Testimonials";
 import FAQ from "../components/FAQ";
+import Footer from "../components/Footer";
 
 function Home() {
   return (
@@ -16,6 +17,7 @@ function Home() {
                         <Features />
                         <Testimonials />
                         <FAQ />
+                        <Footer />
                             </>
                               );
                               }
